@@ -4,7 +4,6 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=akhbvr&label=Profile%20page%20views%20&color=12A950&style=modern" alt="akhbvr"></p>
 
-- 🔭 I’m currently working on [PentaKod](http://pentakod.com)
 
 - 📫 Contact me at **me@akhbvr.com**
 
